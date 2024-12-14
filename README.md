@@ -10,9 +10,7 @@
 
 ## <picture><img src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif" width = 40px></picture> Sobre mí
 
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
-</a>
+<img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 
 - 🎓 Estudiante de Ciencias de la Computación en FaMAF - UNC.
 - 📚 Apasionado por el aprendizaje continuo.
@@ -20,10 +18,7 @@
 - 🕊️ Pensamientos en [X](https://twitter.com/v_alediaz_/).
 - 📫 Contacto: victor.diaz.jauregui@mi.unc.edu.ar
 
-<br/>
-<br/>
-<br/>
-<br/>
+<br clear="both">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías</b>
 
